@@ -1,0 +1,56 @@
+body{
+
+    font-family: Arial;
+
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+}
+
+.container{
+
+    background: white;
+
+    padding: 30px;
+
+    border-radius: 10px;
+
+    text-align: center;
+
+    width: 350px;
+}
+
+input{
+
+    width: 90%;
+
+    padding: 10px;
+
+    margin: 10px 0;
+}
+
+button{
+
+    padding: 10px 15px;
+
+    border: none;
+
+    background: #ff4b5c;
+
+    color: white;
+
+    cursor: pointer;
+
+    margin: 5px;
+}
+
+button:hover{
+
+    background: #d63344;
+}
